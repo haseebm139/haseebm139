@@ -34,8 +34,8 @@ You can click the Preview link to take a look at your changes.
 
 ### :fire: My Stats :
 <div>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bisharat62"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=haseebm139"/>
 </div>
 <div>
-  <img src = "![Top Langs](https://www.linkedin.com/in/bisharat-ali-%F0%9F%87%B5%F0%9F%87%B0-782826210/)"/>
+  <img src = "![Top Langs](https://www.linkedin.com/in/haseeb-memon-485690203/)"/>
 </div>
