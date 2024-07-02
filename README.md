@@ -1,6 +1,8 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/E89xxATM4iZoPdr6Tb/giphy.gif"  width="400", height = "300"/>
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"width = "250"/>
+  <img src="https://media.giphy.com/media/E89xxATM4iZoPdr6Tb/giphy.gif"  width="250", height = "250"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width = "250"/>
+  <img src="https://giphy.com/gifs/solturo-tech-technology-solturocom-qMGOIRnDWIUUM4htkD" width = "250"/>
+ 
 </div>
 <div id="badges" align="left">
   <a href="https://www.linkedin.com/in/haseeb-memon-485690203/">
